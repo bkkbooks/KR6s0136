@@ -23,13 +23,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6s0136_001.yaml, hash: 'sha256:dff3f46af18d30ad00cb50f0387e42436b54471a6055c5b33de3806bdb608cd0'}
-  - {seq: 2, filename: KR6s0136_002.yaml, hash: 'sha256:6503c22d98742bffd968203b341481aca9fb97c50dc8c3ba0d402dc6b48bea19'}
-  - {seq: 3, filename: KR6s0136_003.yaml, hash: 'sha256:5d760e6ff247d988af0de4184284ea51efb1146be60087192853cf98ddecb9c8'}
+  - {seq: 1, filename: KR6s0136_001.yaml, hash: 'sha256:4da17deb5f2178eb4a61652223358a95c65532b06672a60c8323578ac9080ced'}
+  - {seq: 2, filename: KR6s0136_002.yaml, hash: 'sha256:a1c1aa2cdd5b6a59e94f2930e548f8228898397df8ec216f4e7ff7171b19f0ba'}
+  - {seq: 3, filename: KR6s0136_003.yaml, hash: 'sha256:671c80c00ca3ea51c971d5a17a887349c76c434466b7fc5decd0773b7532970f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0136_001.markers.yaml, hash: 'sha256:699e3c0e1c8f4ebe9075020a80a6db39a2b146f3d59d58f411f674d51c1dd96c'}
-  - {seq: 2, role: markers, filename: assets/KR6s0136_002.markers.yaml, hash: 'sha256:65fe9cf163184017f6085c838bc9eb5bdbf77805830e15b5125a7e1997efb8d8'}
-  - {seq: 3, role: markers, filename: assets/KR6s0136_003.markers.yaml, hash: 'sha256:e61165151a6d4193dc4b68c0f8a21837a6eb22b7e225c626b18e3b3b3a4a0fb7'}
+  - {seq: 1, role: markers, filename: assets/KR6s0136_001.markers.yaml, hash: 'sha256:516c80e428f23a04405f73f81a7e0a48253cdf6e773257afc89522e3c4d41c30'}
+  - {seq: 2, role: markers, filename: assets/KR6s0136_002.markers.yaml, hash: 'sha256:3e03cc1691ae9fcc2f97ab35a5cdd1d5000ee0a8b220701666e0fef6c4cae26f'}
+  - {seq: 3, role: markers, filename: assets/KR6s0136_003.markers.yaml, hash: 'sha256:a34da6532142f504e8ba4fbacf95d6bcc1051d1336c9d92ef8b5c247c3ded9e5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1221,9 +1221,6 @@ table_of_contents:
   label: 智行並具禪師重得人身生國皇之子縁第卅九
   type: section
   level: 2
-hash: sha256:12a17d74a97ce9bdb2e7aa45a47e785c356ebd4a55f68c174e1ab504be5a2d9c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2439fe08d7fe0d337a4c7d5fb62a0030942293509ac492120c744d5f6674233b
 editions:
 - short: IWA
