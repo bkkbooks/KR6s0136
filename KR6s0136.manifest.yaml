@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6s0136/v1
 canonical_location: https://kanripo.org/bkk/KR6s0136/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 日本靈異記
   identifiers:
@@ -23,13 +23,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6s0136_001.yaml, hash: 'sha256:4da17deb5f2178eb4a61652223358a95c65532b06672a60c8323578ac9080ced'}
-  - {seq: 2, filename: KR6s0136_002.yaml, hash: 'sha256:a1c1aa2cdd5b6a59e94f2930e548f8228898397df8ec216f4e7ff7171b19f0ba'}
-  - {seq: 3, filename: KR6s0136_003.yaml, hash: 'sha256:671c80c00ca3ea51c971d5a17a887349c76c434466b7fc5decd0773b7532970f'}
+  - {seq: 1, filename: KR6s0136_001.yaml, hash: 'sha256:d157a924a20dfa4496d0afade5ca16a4e73a48df5a994eaba892430cb6eaf6a8'}
+  - {seq: 2, filename: KR6s0136_002.yaml, hash: 'sha256:7ba0452170e5c8d26c32f5a1ae67018af68cfd9791ecae5353bd61b8bb0f177f'}
+  - {seq: 3, filename: KR6s0136_003.yaml, hash: 'sha256:4d58cf1443f49d5544652e585af3f8ee91add37d41687b710c841658bddffe02'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0136_001.markers.yaml, hash: 'sha256:516c80e428f23a04405f73f81a7e0a48253cdf6e773257afc89522e3c4d41c30'}
-  - {seq: 2, role: markers, filename: assets/KR6s0136_002.markers.yaml, hash: 'sha256:3e03cc1691ae9fcc2f97ab35a5cdd1d5000ee0a8b220701666e0fef6c4cae26f'}
-  - {seq: 3, role: markers, filename: assets/KR6s0136_003.markers.yaml, hash: 'sha256:a34da6532142f504e8ba4fbacf95d6bcc1051d1336c9d92ef8b5c247c3ded9e5'}
+  - {seq: 1, role: markers, filename: assets/KR6s0136_001.markers.yaml, hash: 'sha256:79d0c5b7672636b482f0a101e0c26622c081bf545bb412b9ef0b5a9596e08d8f'}
+  - {seq: 2, role: markers, filename: assets/KR6s0136_002.markers.yaml, hash: 'sha256:18dc5e085df4434442705b9bc03087cf5e86f099b262033bb47a420e631575b3'}
+  - {seq: 3, role: markers, filename: assets/KR6s0136_003.markers.yaml, hash: 'sha256:25e3fe91d6e16a9fc9333d64bcf644adb3f5258d67add13a3727b41871f56d4a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1221,6 +1221,9 @@ table_of_contents:
   label: 智行並具禪師重得人身生國皇之子縁第卅九
   type: section
   level: 2
-hash: sha256:2439fe08d7fe0d337a4c7d5fb62a0030942293509ac492120c744d5f6674233b
+hash: sha256:84001811e197f8582e98753a165d08fc38b04fe565e3e36c8bdd1756ab3f6242
 editions:
 - short: IWA
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
