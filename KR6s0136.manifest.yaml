@@ -27,9 +27,9 @@ assets:
   - {seq: 2, filename: KR6s0136_002.yaml, hash: 'sha256:7ba0452170e5c8d26c32f5a1ae67018af68cfd9791ecae5353bd61b8bb0f177f'}
   - {seq: 3, filename: KR6s0136_003.yaml, hash: 'sha256:4d58cf1443f49d5544652e585af3f8ee91add37d41687b710c841658bddffe02'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0136_001.markers.yaml, hash: 'sha256:79d0c5b7672636b482f0a101e0c26622c081bf545bb412b9ef0b5a9596e08d8f'}
-  - {seq: 2, role: markers, filename: assets/KR6s0136_002.markers.yaml, hash: 'sha256:18dc5e085df4434442705b9bc03087cf5e86f099b262033bb47a420e631575b3'}
-  - {seq: 3, role: markers, filename: assets/KR6s0136_003.markers.yaml, hash: 'sha256:25e3fe91d6e16a9fc9333d64bcf644adb3f5258d67add13a3727b41871f56d4a'}
+  - {seq: 1, role: markers, filename: assets/KR6s0136_001.markers.yaml, hash: 'sha256:eeda5d1b4099d96bc6a1e04e69e8482c1f776c2f814bde4156d8691686d61279'}
+  - {seq: 2, role: markers, filename: assets/KR6s0136_002.markers.yaml, hash: 'sha256:bbb6ff2f85edda4f0b8ab3f0a7f3e095fb0aaf6f1763b01495d9bcd9b27fb0b6'}
+  - {seq: 3, role: markers, filename: assets/KR6s0136_003.markers.yaml, hash: 'sha256:054e01a01fe46169d133fadddadb04385f68d89d719928f8661a32ffa74d5ead'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1221,7 +1221,7 @@ table_of_contents:
   label: 智行並具禪師重得人身生國皇之子縁第卅九
   type: section
   level: 2
-hash: sha256:84001811e197f8582e98753a165d08fc38b04fe565e3e36c8bdd1756ab3f6242
+hash: sha256:dbd9ab1c10ce662c33e1bc253ebdc4e937d37069af2bde0e0cbc2b0869b51a1d
 editions:
 - short: IWA
 mappings:
